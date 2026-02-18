@@ -49,6 +49,7 @@ const allowedOrigins = [
   "http://www.arshiglobal.com",
   "https://arshiglobal.com",
   "https://www.arshiglobal.com",
+  "https://arshiglobal-frontend.vercel.app",
 ];
 app.use(
   cors({
